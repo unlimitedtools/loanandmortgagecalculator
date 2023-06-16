@@ -1,2 +1,2 @@
-# loanandmortgagecalculator
+# mortgagecalculator
 Made with ❤️
